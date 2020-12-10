@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ARGMANDRTest/static/css/main.cacea970.chunk.css",
+    "main.js": "/ARGMANDRTest/static/js/main.69655859.chunk.js",
+    "main.js.map": "/ARGMANDRTest/static/js/main.69655859.chunk.js.map",
+    "runtime-main.js": "/ARGMANDRTest/static/js/runtime-main.989d0dcb.js",
+    "runtime-main.js.map": "/ARGMANDRTest/static/js/runtime-main.989d0dcb.js.map",
+    "static/js/2.3a369aaf.chunk.js": "/ARGMANDRTest/static/js/2.3a369aaf.chunk.js",
+    "static/js/2.3a369aaf.chunk.js.map": "/ARGMANDRTest/static/js/2.3a369aaf.chunk.js.map",
+    "static/js/3.e329de4b.chunk.js": "/ARGMANDRTest/static/js/3.e329de4b.chunk.js",
+    "static/js/3.e329de4b.chunk.js.map": "/ARGMANDRTest/static/js/3.e329de4b.chunk.js.map",
+    "index.html": "/ARGMANDRTest/index.html",
+    "static/css/main.cacea970.chunk.css.map": "/ARGMANDRTest/static/css/main.cacea970.chunk.css.map",
+    "static/js/2.3a369aaf.chunk.js.LICENSE.txt": "/ARGMANDRTest/static/js/2.3a369aaf.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/ARGMANDRTest/static/media/ARGheader_bg.97332a26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.989d0dcb.js",
+    "static/js/2.3a369aaf.chunk.js",
+    "static/css/main.cacea970.chunk.css",
+    "static/js/main.69655859.chunk.js"
+  ]
+}
